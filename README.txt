@@ -1,33 +1,4 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+#Portfolio
+Hi, my name is Atharva, and I'm a computer science graduate student graduating this June. I'm passionate about making a positive impact in people's lives, and I've done that by leading a startup that helped over 200 Covid patients with a mobile application I developed.
+Currently, I'm working with SCU to develop a mobile application that will help 1500+ children across North and South America. During my internship at Onsemiconductors, I developed automated testing tools to increase software testers' productivity, using Jenkins to build and automate tests and SonarQube to check for duplicate code.
+My experiences have taught me the importance of creativity, enthusiasm, and a can-do attitude when it comes to solving real-life problems. I'm excited to bring these qualities to any project I work on and to continue making a meaningful impact in people's lives.
