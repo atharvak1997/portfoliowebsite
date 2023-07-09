@@ -99,7 +99,6 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #a2a2a2;
-		
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -1870,11 +1869,11 @@ input, select, textarea {
 		grid-column: span 2;
 	  }
 	  main {
-		margin: 0 auto;
-		padding: 4rem 0;
-		width: 90%;
-		max-width: 60rem;
-	  }
+  margin: 0 auto;
+  padding: 4rem 0;
+  width: 90%;
+  max-width: 60rem;
+}
 
 
 		select option {
